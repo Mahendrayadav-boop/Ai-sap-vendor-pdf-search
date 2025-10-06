@@ -135,9 +135,5 @@ v2.0	Add LLM (OpenAI or Llama2) for smart contextual Q&A
 
 Mahendra Yadav Vavitikalva
 AI/ML Engineer
-[LinkedIn Profile link here]
-[Optional: Email/contact info]
 
-📜 License
 
-MIT License © 2025 Mahendra Yadav Vavitikalva
